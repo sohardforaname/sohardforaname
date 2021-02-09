@@ -5,4 +5,4 @@
 - :sunny: C++ programmer, also use Lua, Rust, Python and so on.
 - :yellow_heart: Listening Japan Music, favourite singer: Aya Uchida, Matsuda Seiko, Nakamori Akina. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hustmch&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya_Uchida&show_icons=true&theme=radical)
