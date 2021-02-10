@@ -3,6 +3,6 @@
 - :blue_heart: ICPCer
 - :purple_heart: interested in KV engine
 - :sunny: C++ programmer, also use Lua, Rust, Python and so on.
-- :yellow_heart: Listening Japan Music, favourite singer: Aya Uchida, Matsuda Seiko, Nakamori Akina. 
+- :yellow_heart: Listening Japan Music, favourite singer: Uchida Aya, Matsuda Seiko, Nakamori Akina. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohardforaname&show_icons=true&theme=synthwave)
