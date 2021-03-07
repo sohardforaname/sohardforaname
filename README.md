@@ -4,7 +4,7 @@
 - :purple_heart: interested in KV engine.
 - :heartpulse: C++ programmer, also program in Lua, Rust, Python and so on.
 - :yellow_heart: Listening Japanese Music, favourite singer: Uchida Aya, Matsuda Seiko, Nakamori Akina.
-- :heartbeat: https://codeforces.com/profile/aya_uchida, https://vjudge.net/user/Aya_Uchida, https://www.luogu.com.cn/user/168482.
+- :heartbeat: ![](https://img.shields.io/badge/aya_uchida -specialist%20master-purple?style=flat&logo=codeforces)](https://codeforces.com/profile/aya_uchida), https://vjudge.net/user/Aya_Uchida, https://www.luogu.com.cn/user/168482.
 - :email: organic_chemistry@foxmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=sohardforaname&show_icons=true&theme=synthwave)
