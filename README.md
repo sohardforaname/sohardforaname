@@ -1,4 +1,4 @@
-## This is mch, who's studying in HuaZhong University of Science and Technology.
+## This is mch, who's studying in Huazhong University of Science and Technology.
 
 - :blue_heart: ICPCer.
 - :purple_heart: interested in KV engine(tikv, leveldb, redis), Computer Graphic, String matching and analysis(Aho-Corasick Automaton, Wu-Manber Algorithm), Data Structure.
